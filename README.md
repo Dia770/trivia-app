@@ -1,6 +1,14 @@
 # Trivia APP
 
 Ce projet est un devoir du parcours full stack development using Flask (UDACITY), j'ai pris plaisir a le realiser. 
+C'est une application qui contient des questions et réponses permet de lancer un quiz. 
+
+L'application doit :
+- Afficher les questions - toutes les questions et par catégorie. Les questions doivent afficher la question, la catégorie et le degré de difficulté par défaut et peuvent afficher ou masquer la réponse.
+- Supprimer les questions.
+- Ajouter des questions et exiger qu'elles comprennent le texte de la question et de la réponse.
+- Rechercher des questions à partir d'une chaîne de texte de requête.
+Jouer le questionnaire en randomisant toutes les questions ou dans une catégorie spécifique.
 
 ## Commencez
 
